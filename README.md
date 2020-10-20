@@ -1,2 +1,2 @@
-# repo_react_flex_chatapp
+# repo-react-chatapp
 Created with CodeSandbox
